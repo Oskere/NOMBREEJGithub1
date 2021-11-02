@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Irundonosti 
-Renteria 
-=======
 Irun
 Donosti
 Hondarribia
->>>>>>> 1b3210476b3f281eec9126fbec3c3213b675c3b4
+Renteria
